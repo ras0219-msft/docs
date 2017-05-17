@@ -1,4 +1,3 @@
-
 # Documentation
 
 ### Quick Start
@@ -20,8 +19,10 @@ Vcpkg helps you get C and C++ libraries on Windows. This tool and ecosystem are 
 ### Maintainer help
 
 - [Control files](control-files.md)
-#### Portfile functions <!-- Command help can be found in the cmake\ subdirectory -->
+#### Portfile functions
 {% include commands.md %}
+<!-- Command help can be found in the cmake\ subdirectory -->
+<!-- Run regenerate.ps1 to extract documentation from scripts\cmake\*.cmake -->
 
 ### Specifications
 

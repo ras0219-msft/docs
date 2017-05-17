@@ -1,4 +1,4 @@
-## vcpkg\_install\_cmake
+## vcpkg_install_cmake
 
 Build and install a cmake project.
 

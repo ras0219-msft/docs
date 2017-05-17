@@ -1,4 +1,4 @@
-## vcpkg\_from\_github
+## vcpkg_from_github
 
 Download and extract a project from GitHub. Enables support for `install --head`.
 

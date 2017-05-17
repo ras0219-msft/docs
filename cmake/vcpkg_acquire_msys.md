@@ -1,4 +1,4 @@
-## vcpkg\_acquire\_msys
+## vcpkg_acquire_msys
 
 Download and prepare an MSYS2 instance.
 

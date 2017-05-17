@@ -174,6 +174,3 @@ link_libraries(${WASTORAGE_LIBRARY})
 
 [1]: https://cmake.org/cmake/help/latest/command/find_path.html
 [2]: https://cmake.org/cmake/help/latest/command/find_library.html
-
-
-

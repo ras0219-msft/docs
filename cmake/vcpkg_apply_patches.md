@@ -1,4 +1,4 @@
-## vcpkg\_apply\_patches
+## vcpkg_apply_patches
 
 Apply a set of patches to a source tree.
 

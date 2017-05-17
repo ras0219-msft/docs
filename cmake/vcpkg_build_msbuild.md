@@ -1,4 +1,4 @@
-## vcpkg\_build\_msbuild
+## vcpkg_build_msbuild
 
 Build an msbuild-based project.
 

@@ -1,4 +1,4 @@
-## vcpkg\_configure\_cmake
+## vcpkg_configure_cmake
 
 Configure CMake for Debug and Release builds of a project.
 

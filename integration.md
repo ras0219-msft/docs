@@ -1,6 +1,6 @@
 ## Buildsystem Integration
 
-Vcpkg offers many ways to integrate into your build so you can do what's right for your project. There are two main categories of integration: 
+Vcpkg offers many ways to integrate into your build so you can do what's right for your project. There are two main categories of integration:
 
 - [`integrate` command](#integrate)
 - [`export` command](#export)
@@ -81,3 +81,5 @@ Each of these have the same layout, which mimics the layout of a full vcpkg:
 - `scripts\buildsystems\vcpkg.cmake` is a toolchain file suitable for use with CMake
 
 Additionally, NuGet packages will contain a `build\native\vcpkg.targets` that integrates with MSBuild projects.
+
+Please also see our [blog post](https://blogs.msdn.microsoft.com/vcblog/2017/05/03/vcpkg-introducing-export-command/) for additional examples.
